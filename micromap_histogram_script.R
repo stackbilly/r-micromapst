@@ -1,5 +1,4 @@
 library(micromapST)
-#libs for histogram
 library(ggplot2)
 library(dplyr)
 
