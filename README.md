@@ -1,2 +1,2 @@
 # r-micromapst
-a simple script demenstrating a  micromapst() function
+a simple script demonstrating a  micromapst() function
